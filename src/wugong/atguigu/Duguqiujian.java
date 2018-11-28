@@ -1,6 +1,6 @@
 package wugong.atguigu;
 
-public class Liu {
+public class Duguqiujian {
 
 	public static void main(String[] args) {
 		System.out.println("1111");
