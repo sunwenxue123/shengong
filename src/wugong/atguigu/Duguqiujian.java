@@ -7,7 +7,7 @@ public class Duguqiujian {
 		System.out.println("22222");
 		System.out.println("33333");
 		System.out.println("101010");
-		
+		System.out.println("10101022222");
 		System.out.println("xxx");
 
 		System.out.println("yyyy");
